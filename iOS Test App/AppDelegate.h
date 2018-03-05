@@ -4,7 +4,7 @@
 //
 //  Created by Jonathan Janesjö on 2018-03-05.
 //  Copyright © 2018 Jonathan Janesjö. All rights reserved.
-//
+//  Yeah!
 
 #import <UIKit/UIKit.h>
 
